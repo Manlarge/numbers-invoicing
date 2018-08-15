@@ -1,0 +1,14 @@
+fieldset {
+    margin: 4px;
+    border: 8px solid silver;
+    padding: 8px;    
+    border-radius: 4px;
+
+    width: auto;
+    border: 1px solid #eee;
+    box-shadow: 0 5px 6px #ccc;
+}
+
+legend {
+    padding: 2px;    
+}
